@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FiPlay, FiArrowRight } from 'react-icons/fi';
+import { FiArrowRight } from 'react-icons/fi';
 
 export default function Hero() {
     return (
