@@ -51,7 +51,7 @@ export default function Hero() {
                                     Get Started
                                     <FiArrowRight className="ml-2 h-5 w-5" />
                                 </motion.a>
-                                <motion.a
+                                {/* <motion.a
                                     href="#"
                                     whileHover={{ scale: 1.02 }}
                                     whileTap={{ scale: 0.98 }}
@@ -59,7 +59,7 @@ export default function Hero() {
                                 >
                                     <FiPlay className="h-5 w-5 mr-2" />
                                     Watch Demo
-                                </motion.a>
+                                </motion.a> */}
                             </div>
                         </motion.div>
                     </motion.div>
